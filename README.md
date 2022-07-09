@@ -1,3 +1,3 @@
-- Current MSc Financial Data Science student at UCD Michael Smurfit Business School
+- MSc Financial Data Science from UCD Michael Smurfit Business School
 - BEng in Mechanical and Manufacturing Engineering from Dublin City University
 - Slowly contributing to this profile to showcase projects from my MSc in Financial Data Science
